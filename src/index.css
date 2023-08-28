@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.post .card-content .pic img{
+  width:4rem;
+  height: 3rem;
+  position: absolute;
+  top: 20;
+  left: 5;
+  
+  
+}
+
+.post .card-content .card-title, .card-body  {
+  padding-left: 6rem;
+}
